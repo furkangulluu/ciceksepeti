@@ -1,0 +1,41 @@
+{
+  "footer":[
+    {"title":"Faydalı Bilgiler","subTitle":["Çiçek Bakımı","Çiçek Eşliğinde Notlar","Çiçek Anlamları","Özel Günler","Mevsimlere Göre Çiçekler","BonnyFood Saklama Koşulları","Site Haritası"]},
+    {"title":"Kurumsal","subTitle":["Hakkımızda","Kariyer","ÇiçekSepeti’nde Satış Yap","Kurumsal Müşterilerimiz","Reklamlarımız","Basında Biz","Kampanyalar"]},
+    {"title":"İletişim","subTitle":["Bize Ulaşın","Sıkça Sorulan Sorular"]},
+    {"title":"Gizlilik Sözleşmesi","subTitle":["Mesafeli Satış Sözleşmesi","Bilgi Toplumu Hizmetleri","Gizlilik Sözleşmesi","Ödeme Seçenekleri","Hesap Bilgileri"]}
+  ],
+  "categories":[
+    {"key":"all","name":"Tüm Kategoriler"},
+    {"key":"electronic","name":"Elektronik"},
+    {"key":"home","name":"Ev ve Yaşam"},
+    {"key":"pet","name":"Evcil Hayvan"},
+    {"key":"book","name":"Kitap"},
+    {"key":"toy","name":"Oyuncak"},
+    {"key":"sport","name":"Spor"},
+    {"key":"flower","name":"Çiçek(120)"},
+    {"key":"gift","name":"Hediye"},
+    {"key":"accessory","name":"Moda, Aksesuar"},
+    {"key":"office","name":"Ofis, Kırtasiye"},
+    {"key":"parfume","name":"Parfüm"},
+    {"key":"healthcare","name":"Kişisel Bakım"},
+    {"key":"chocolate","name":"Çikolata"}
+  ],
+  "campaign":[
+    {"text":"75 TL Üzerine Teslimat Ücreti Bizden","buttonText":"Detaylı Bilgi","imagePath":"Rectangle4012.png","cssClass":"bg-coral"},
+    {"text":"Hediye Kategorisi için Sepette %15 İndirim","buttonText":"Hediye Ürünleri","imagePath":"Rectangle4014.png","cssClass":"bg-sea"},
+    {"text":"Kırtasiye Kategorisi için Sepette %15 İndirim","buttonText":"Detaylı Bilgi","imagePath":"Rectangle4013.png","cssClass":"bg-mint"}
+  ],
+  "products":[
+    {"id":1,"title":"Z6 Akıllı Saat Kameralı Konuşma Garantili Sim Kartlı Bluetooth","price":399.90,"isFreeShipping":true,"imagePath":"Rectangle107-8@2x.png","category":"electronic"},
+    {"id":2,"title":"Calvin Klein Euphoria EDP 100 ml Kadın Parfüm","price":145.61,"isFreeShipping":true,"imagePath":"Rectangle107-5@2x.png","category":"perfume"},
+    {"id":3,"title":"Gold Çizgili Vazoda 2 Dal Orkide Çiçeği","price":249.90,"isFreeShipping":true,"imagePath":"Rectangle107-6@2x.png","category":"flower"},
+    {"id":4,"title":"925 Ayar Gümüş Çeyreklik Bileklik (Y)","price":329.90,"isFreeShipping":false,"imagePath":"Rectangle107-7@2x.png","category":"accessory"},
+    {"id":5,"title":"Sailor SD-3160 Siyah Dağcı Seyahat Sırt Çantası 55 LT Outdoor-Trekking","price":499.90,"isFreeShipping":true,"imagePath":"Rectangle107-9@2x.png","category":"sport"},
+    {"id":6,"title":"Büyük Boy Metal Osmanlı Bizans Satranç Takımı Parlak ve Cev...","price":19.90,"isFreeShipping":true,"imagePath":"Rectangle107-4@2x.png","category":"office"},
+    {"id":7,"title":"130 Cm Papyonlu Büyük Ayıcık (%100 Yerli)","price":89.90,"isFreeShipping":true,"imagePath":"Rectangle107-2@2x.png","category":"toy"},
+    {"id":8,"title":"925 Ayar Gümüş Dualı İsimli Nazar İgnesi","price":29.90,"isFreeShipping":true,"imagePath":"Rectangle107-3@2x.png","category":"accessory"},
+    {"id":9,"title":"Özel Tatlar Çikolata Kutusu 300 gr","price":59.90,"isFreeShipping":true,"imagePath":"Rectangle107@2x.png","category":"chocolate"},
+    {"id":10,"title":"Kucak Dolusu Aşk 25 Kırmızı Gül Buketi","price":199.90,"isFreeShipping":false,"imagePath":"Rectangle107-1@2x.png","category":"gift"}
+  ]
+}
